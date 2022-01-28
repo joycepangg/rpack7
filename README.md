@@ -1,14 +1,13 @@
 # rpack7
-This is the homework assignment for 3.2.2. 
-# rpack6
+
 This is the homework for assignment 3.2.1 (advanced R).
 
-These are the functions for rapck6. This package includes the cheat function and the remind_me function. 
+These are the functions for rapck7. This package includes the cheat function and the remind_me function. 
 
 ## Installation
 Install through 
 
-    install_github("joycepangg/rpack6")
+    install_github("joycepangg/rpack7")
 
 ***Note** make sure to download "devtools" and "ggplot2" before installation* :smiley:
 
